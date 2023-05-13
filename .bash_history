@@ -24,3 +24,4 @@ cc -o test test02.s
 cc -o test test02.s 
 ./test
 echo $?
+ls
