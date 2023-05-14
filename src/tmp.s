@@ -1,4 +1,4 @@
 .globl main
 main:
-  mov x0, 254
+  mov x0, 42
   ret
